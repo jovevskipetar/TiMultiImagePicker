@@ -1,0 +1,8 @@
+"/Users/petar/Downloads/TiMultiImagePicker-master/android/build/generated/java/titutorial/gallerypicker/GallerypickerBootstrap.java"
+"/Users/petar/Downloads/TiMultiImagePicker-master/android/src/titutorial/gallerypicker/Action.java"
+"/Users/petar/Downloads/TiMultiImagePicker-master/android/src/titutorial/gallerypicker/CustomGallery.java"
+"/Users/petar/Downloads/TiMultiImagePicker-master/android/src/titutorial/gallerypicker/CustomGalleryActivity.java"
+"/Users/petar/Downloads/TiMultiImagePicker-master/android/src/titutorial/gallerypicker/ExampleProxy.java"
+"/Users/petar/Downloads/TiMultiImagePicker-master/android/src/titutorial/gallerypicker/GalleryAdapter.java"
+"/Users/petar/Downloads/TiMultiImagePicker-master/android/src/titutorial/gallerypicker/GallerypickerModule.java"
+"/Users/petar/Downloads/TiMultiImagePicker-master/android/src/titutorial/gallerypicker/Utility.java"
